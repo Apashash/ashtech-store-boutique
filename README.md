@@ -1,7 +1,7 @@
 # ashtech-store-boutique
 
 # Ashtech-store
-my api key: lygosapp-32fb14b1-6d3e-463b-a39f-98496e646c26
+my api key: lygosapp-32fb14b1-6d3e-463b-a39f-98496e646c26 
 information sur l'api
 
 Présentation globale
